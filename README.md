@@ -18,7 +18,7 @@ Java Full Stack Developer | Spring Boot Developer | Problem Solver
 
 🌱 Learning Spring Boot, Hibernate & Microservices
 
-💻 Solved 650+ LeetCode Problems
+💻 Solved  LeetCode Problems-
 
 🏆 1800+ Contest Rating
 
@@ -48,7 +48,7 @@ HTML | CSS | JavaScript | React
 
 ## 💻 LeetCode
 
-650+ Problems Solved
+ Problems Solved
 
 ---
 
