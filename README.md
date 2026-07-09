@@ -67,4 +67,4 @@ Spring Boot + Hibernate CRUD project.
 
 ## 🌐 Connect With Me
 
-LinkedIn: www.linkedin.com/in/shivam-kumar-2a53b0278
+LinkedIn: 
