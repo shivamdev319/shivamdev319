@@ -30,6 +30,8 @@ Java Full Stack Developer | Spring Boot Developer | Problem Solver
 
 Java | Spring Boot | Hibernate | JDBC | SQL
 
+Manual Testing | SDLC | STLC | Functional Testing | Integration Testing | System Testing | Smoke Testing
+
 PostgreSQL | Git | Maven
 
 HTML | CSS | JavaScript | React
